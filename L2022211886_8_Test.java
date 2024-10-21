@@ -3,7 +3,7 @@ package org.example;
 import org.testng.annotations.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+//commit
 public class Solution8Test {
     private final Solution8 solution = new Solution8();
 
